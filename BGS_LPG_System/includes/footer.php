@@ -1,0 +1,1 @@
+</main></div><footer class="footer">© 2026 BGS LPG Store Inventory and Sales Management System. All Rights Reserved</footer></body></html>
